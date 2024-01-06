@@ -36,4 +36,5 @@ There is a make file included in the repository, so the game can be compiled by 
 
 Short video of the game running on the Raspberry Pi Sense HAT display:
 
+https://github.com/Marko19907/Raspberry-Pi-Tetris/assets/22809973/87c48bbf-6889-4846-b0d0-d6d87cdecf82
 
